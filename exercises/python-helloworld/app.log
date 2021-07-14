@@ -1,0 +1,15 @@
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [04/Jul/2021 09:19:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jul/2021 09:20:04] "GET /metrics HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Jul/2021 09:20:09] "GET /metric HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Jul/2021 09:20:14] "GET /status HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Jul/2021 09:20:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [04/Jul/2021 09:43:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jul/2021 09:43:08] "GET /metrics HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Jul/2021 09:43:12] "GET /metric HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Jul/2021 09:43:18] "GET /status HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Jul/2021 09:43:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jul/2021 09:43:25] "GET /metrics HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Jul/2021 09:43:32] "GET /status HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Jul/2021 09:43:40] "GET /metrics HTTP/1.1" 404 -
